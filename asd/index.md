@@ -1,1 +1,4 @@
-redirect_to: http://example.com
+---
+redirect_to:
+ - http://example.com
+---
